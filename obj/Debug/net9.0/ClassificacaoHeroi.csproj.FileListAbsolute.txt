@@ -1,0 +1,14 @@
+C:\dev\ClassificacaoHeroi\bin\Debug\net9.0\ClassificacaoHeroi.exe
+C:\dev\ClassificacaoHeroi\obj\Debug\net9.0\ClassificacaoHeroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ClassificacaoHeroi\obj\Debug\net9.0\ClassificacaoHeroi.AssemblyInfoInputs.cache
+C:\dev\ClassificacaoHeroi\obj\Debug\net9.0\ClassificacaoHeroi.AssemblyInfo.cs
+C:\dev\ClassificacaoHeroi\obj\Debug\net9.0\ClassificacaoHeroi.csproj.CoreCompileInputs.cache
+C:\dev\ClassificacaoHeroi\obj\Debug\net9.0\ClassificacaoHeroi.dll
+C:\dev\ClassificacaoHeroi\obj\Debug\net9.0\refint\ClassificacaoHeroi.dll
+C:\dev\ClassificacaoHeroi\obj\Debug\net9.0\ClassificacaoHeroi.pdb
+C:\dev\ClassificacaoHeroi\bin\Debug\net9.0\ClassificacaoHeroi.deps.json
+C:\dev\ClassificacaoHeroi\bin\Debug\net9.0\ClassificacaoHeroi.runtimeconfig.json
+C:\dev\ClassificacaoHeroi\bin\Debug\net9.0\ClassificacaoHeroi.dll
+C:\dev\ClassificacaoHeroi\bin\Debug\net9.0\ClassificacaoHeroi.pdb
+C:\dev\ClassificacaoHeroi\obj\Debug\net9.0\ClassificacaoHeroi.genruntimeconfig.cache
+C:\dev\ClassificacaoHeroi\obj\Debug\net9.0\ref\ClassificacaoHeroi.dll
